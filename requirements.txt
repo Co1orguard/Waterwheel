@@ -1,0 +1,8 @@
+colorama==0.4.6
+procmon_parser==0.3.13
+psutil==5.9.4
+pywin32==306
+schedule==1.2.1
+termcolor==2.4.0
+watchdog==4.0.0
+WMI==1.5.1
